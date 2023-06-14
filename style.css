@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.container-fluid .container-fluid .container {
+    background-color: #D82326;
+    background-image: url(url), -webkit-linear-gradient(270deg,rgba(231,234,239,1.00) 0%,rgba(149,72,86,1.00) 100%);
+    background-image: url(url), -moz-linear-gradient(270deg,rgba(231,234,239,1.00) 0%,rgba(149,72,86,1.00) 100%);
+    background-image: url(url), -o-linear-gradient(270deg,rgba(231,234,239,1.00) 0%,rgba(149,72,86,1.00) 100%);
+    background-image: url(url), linear-gradient(180deg,rgba(231,234,239,1.00) 0%,rgba(149,72,86,1.00) 100%);
+}
+.container-fluid .container-fluid .container {
+    background-color: #D55052;
+}
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #26189F;
+}
+.container-fluid .container-fluid .container-fluid {
+
+}
